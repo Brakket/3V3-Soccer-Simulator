@@ -1,3 +1,7 @@
-# Project AI
+# Soccer simulator project with pygame
 
-3V3 soccer simulator
+Requires pygame to run
+
+Play option does not work at the moment (only spectate)
+
+
