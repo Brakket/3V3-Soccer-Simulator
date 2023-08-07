@@ -1,3 +1,3 @@
 # Project AI
 
-Project of 3V3 with AI 
+3V3 soccer simulator
